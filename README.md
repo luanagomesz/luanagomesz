@@ -1,5 +1,5 @@
 ## Ola me chamo Luana Gomes, bem vindo(a) ao meu Github!
-- 🤖 trabalho como desenvolvedora front-end!
+- 🤖 Atuo como desenvolvedora front-end!
 - 👩‍🎓 Estudo na Kenzie academy, no momento estou estudando back-end, rumo a ser uma dev Fullstack!
 <div align="center">
   <a href="https://github.com/luanagomesz">
