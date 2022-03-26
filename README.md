@@ -1,18 +1,22 @@
-## Ola me chamo Luana Gomes, bem vindo(a) ao meu Github!
+## Ola me chamo Luana Gomes, bem vindo(a) ao meu Github! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 - 🤖 Atuo como desenvolvedora front-end!
-- 👩‍🎓 Estudo na Kenzie academy, no momento estou estudando back-end, rumo a ser uma dev Fullstack!
+- 👩‍🎓 Estudo na Kenzie academy, no momento estou estudando back-end ultilizando Python, Flask, MongoDB, PyMongo, Postgres
 <div align="center">
   <a href="https://github.com/luanagomesz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanagomesz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanagomesz&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanagomesz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanagomesz&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img align="center" alt="Luana-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Luana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luana-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+  <img align="center" alt="Luana-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+
   <img align="right" alt="Luana-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/CzjPrmy/download20220302224042.png">
 </div>
   
