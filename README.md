@@ -1,6 +1,6 @@
 ## Ola me chamo Luana Gomes, bem vindo(a) ao meu Github! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 - 🤖 Atuo como desenvolvedora front-end!
-- 👩‍🎓 Estudo na Kenzie academy, no momento estou estudando back-end ultilizando Python, Flask, MongoDB, PyMongo, Postgres
+- 👩‍🎓 Estudo na Kenzie academy, no momento estou estudando back-end ultilizando Python, Flask, MongoDB, PyMongo
 <div align="center">
   <a href="https://github.com/luanagomesz">
     <img height="180em" src="https://github-readme-stats-ten-topaz.vercel.app/api?username=luanagomesz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
