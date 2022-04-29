@@ -1,6 +1,7 @@
 ## Ola me chamo Luana Gomes, bem vindo(a) ao meu Github! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-- 🤖 Atuo como desenvolvedora front-end!
-- 👩‍🎓 Estudo na Kenzie academy, no momento estou estudando back-end ultilizando Python, Flask, MongoDB, PyMongo, PostgreSQL
+- 🤖 Atuando como Desenvolvedora front-end, trabalhando no momento com Javascript, Vue, Nuxt e Vuetify
+- 👩‍🎓 Estudante na Kenzie academy, no momento estou estudando back-end ultilizando Python, Flask, MongoDB, PyMongo, PostgreSQL
+- 🦾 Stacks(): Javascript,Typescript, React, Vue, Nuxt ----- Python, Flask, MongoDB, PostgreSQL
 <div align="center">
   <a href="https://github.com/luanagomesz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanagomesz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
