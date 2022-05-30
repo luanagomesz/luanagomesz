@@ -1,6 +1,6 @@
 ## Ola me chamo Luana Gomes, bem vindo(a) ao meu Github! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 - 🤖 Atuando como Desenvolvedora Fullstack, trabalhando no momento com Javascript, Vue.js, Nuxt.js, vuetify, nest.js
-- 👩‍🎓 Estudante na Kenzie academy, no momento estou estudando back-end ultilizando Python, Flask, MongoDB, PyMongo, PostgreSQL
+- 👩‍🎓 Estudante na Kenzie academy, no momento estou estudando back-end ultilizando Python, Flask, MongoDB, PyMongo, PostgreSQL, Node, express
 - 🦾 Stacks: Javascript,Typescript, React, Vue, Nuxt ----- Python, Flask, MongoDB, PostgreSQL
 <div align="center">
   <a href="https://github.com/luanagomesz">
