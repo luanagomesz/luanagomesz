@@ -1,4 +1,4 @@
-## Ola me chamo Luana Gomes, bem vindo(a) ao meu Github! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Ola me chamo Luana Gomes, bem vindo(a) ao meu Github!
 - 🤖 Atuando como Desenvolvedora Fullstack, trabalhando no momento com Javascript, Vue.js, Nuxt.js, vuetify, nest.js
 - 👩‍🎓 Estudante na Kenzie academy, no momento estou estudando back-end ultilizando Python, Flask, MongoDB, PyMongo, PostgreSQL, Node, express
 <div align="center">
