@@ -2,6 +2,7 @@
 
 ## Ola me chamo Luana Gomes, bem vindo(a) ao meu Github!
 </div>
+
 - 🤖 Atuando como Desenvolvedora Fullstack, trabalhando no momento com Javascript, Vue.js, Nuxt.js, vuetify, node.js, nest.js
 
 - 👩‍🎓 Estudante na Kenzie academy estudando back-end ultilizando Python, Flask, MongoDB, PyMongo, PostgreSQL, node.js, express
