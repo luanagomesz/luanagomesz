@@ -1,8 +1,7 @@
 ## Ola me chamo Luana Gomes, bem vindo(a) ao meu Github!
-<div align="center">
+
 - 🤖 Atuando como Desenvolvedora Fullstack, trabalhando no momento com Javascript, Vue.js, Nuxt.js, vuetify,node, nest.js
 - 👩‍🎓 Estudante na Kenzie academy
-  </div>
 <div align="center">
   <a href="https://github.com/luanagomesz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanagomesz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
