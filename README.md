@@ -3,7 +3,7 @@
 ## Ola me chamo Luana, bem vindo(a) ao meu Github!
 </div>
 
-- 🤖 Atuando como Desenvolvedora Fullstack, trabalhando no momento com Javascript, Vue.js, Nuxt.js, vuetify, node.js, nest.js, react, next
+- 🤖 Atuando como Desenvolvedora Fullstack, trabalhando no momento com Typescript, Vue.js, Nuxt.js, vuetify, node.js, nest.js, react, next
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
