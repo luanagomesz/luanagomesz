@@ -1,6 +1,6 @@
 <div align="center">
 
-## Ola me chamo Luana Gomes, bem vindo(a) ao meu Github!
+## Ola me chamo Luana, bem vindo(a) ao meu Github!
 </div>
 
 - 🤖 Atuando como Desenvolvedora Fullstack, trabalhando no momento com Javascript, Vue.js, Nuxt.js, vuetify, node.js, nest.js, react, next
