@@ -3,7 +3,10 @@
 ## Ola me chamo Luana, bem vindo(a) ao meu Github!
 </div>
 
-- 🤖 Atuando como Desenvolvedora Fullstack, trabalhando no momento com Typescript, Vue.js, Nuxt.js, vuetify, node.js, nest.js, react, next
+- 🤖 Atuando como Desenvolvedora Fullstack na Mid Falconi, trabalhando no momento com Typescript, Vue.js, Nuxt.js, vuetify, node.js, nest.js, react, next.js
+
+🔗 Esse é o meu [perfil de trabalho](https://github.com/luanaMID), pra quem tiver curiosidade (ja serve também pra explicar por que aqui parece que eu raramento encosto em código 😅).
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
