@@ -5,7 +5,7 @@
 
 - 🤖 Atuando como Desenvolvedora Fullstack na Mid Falconi, trabalhando no momento com Typescript, Vue.js, Nuxt.js, vuetify, node.js, nest.js, react, next.js
 
-🔗 Esse é o meu [perfil de trabalho](https://github.com/luanaMID), pra quem tiver curiosidade (ja serve também pra explicar por que aqui parece que eu raramento encosto em código 😅).
+🔗 link para meu [perfil de trabalho](https://github.com/luanaMID), pra quem tiver curiosidade (ja serve também pra explicar por que aqui parece que eu raramento encosto em código 😅).
 
 
 <div style="display: inline_block"><br>
