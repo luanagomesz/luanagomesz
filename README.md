@@ -19,7 +19,6 @@
   <img align="center" alt="Luana-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="Luana-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
 
-  <img align="right" alt="Luana-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/CzjPrmy/download20220302224042.png">
 </div>
   
   ##
