@@ -3,9 +3,7 @@
 ## Ola me chamo Luana, bem vindo(a) ao meu Github!
 </div>
 
-- 🤖 Atuando como Desenvolvedora Fullstack na Mid Falconi, trabalhando no momento com Typescript, Vue.js, Nuxt.js, vuetify, node.js, nest.js, react, next.js, MUI
-
-🔗 link para meu [perfil de trabalho](https://github.com/luanaMID), pra quem tiver curiosidade (ja serve também pra explicar por que aqui parece que eu raramento encosto em código 😅).
+- 🤖 Atuando como Desenvolvedora Fullstack no Mercado livre, trabalhando no momento principalmente com golang e react.
 
 ---
 
